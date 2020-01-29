@@ -11,13 +11,17 @@ from skimage.transform import SimilarityTransform
 import numpy as np
 import TakeFramesFromVideo
 
-numberOfFrames = TakeFramesFromVideo.video_to_frames()
+#numberOfFrames = TakeFramesFromVideo.video_to_frames()
 
-for i in range(1,numberOfFrames-1,10):
-    image0 = imread('./Frames/{0:05d}.png'.format(i))
+aik = 1
+#for i in range(1,numberOfFrames-1,50):
+if aik == 1:
+    #image0 = imread('./Frame/{0:05d}.png'.format(i))
+    image0 = imread('./Frame/sample2.png')
     image0 = rgb2gray(image0)
 
-    image1 = imread('./Frames/{0:05d}.png'.format(i+10))
+    #image1 = imread('./Frame/{0:05d}.png'.format(i+10))
+    image1 = imread('./Frame/sample1.png')
     image1 = rgb2gray(image1)
 
     orb = ORB(n_keypoints = 1000, fast_threshold = 0.05)
@@ -79,5 +83,6 @@ for i in range(1,numberOfFrames-1,10):
     alpha = merged[..., 3]
     merged /= np.maximum(alpha, 1)[..., np.newaxis]
 
-    imsave('./Frames/{0:05d}.png'.format(i+10), merged)
-    print('%d', i , ' figures are completed. Left Figures : %d',numberOfFrames-1-i )
+    #imsave('./Frame/{0:05d}.png'.format(i+10), merged)
+    imsave('./Frame/sample3.png', merged)
+    print(i , ' figures are completed. Left Figures : ',numberOfFrames-1-i )

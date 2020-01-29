@@ -3,8 +3,8 @@ import time
 import os
 
 def video_to_frames():
-    input_loc = './SampleVideos/SampleVideo.mp4'
-    output_loc = './Frames'
+    input_loc = './SampleVideos/SampleVideo2.mp4'
+    output_loc = './Frame'
     """Function to extract frames from input video file
     and save them as separate frames in an output directory.
     Args:

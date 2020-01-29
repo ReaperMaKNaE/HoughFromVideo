@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X0kVCsJPDGd5hgqpn4nJ59DX72" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RunManager" selected="Python.MakeFiguresToSingleFile">
     <configuration name="MakeFiguresToSingleFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -31,9 +35,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\ReaperMaKNaE\Anaconda3\envs\python35\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MakeFiguresToSingleFile.py" />
@@ -52,9 +56,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\ReaperMaKNaE\Anaconda3\envs\python35\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TakeFramesFromVideo.py" />
@@ -121,26 +125,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="709" y="80" key="#MakeFiguresToSingleFile" timestamp="1580261640523">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="709" y="80" key="#MakeFiguresToSingleFile/0.0.1600.860@0.0.1600.860" timestamp="1580261640523" />
+    <state x="709" y="80" key="#TakeFramesFromVideo" timestamp="1580262022195">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="709" y="80" key="#TakeFramesFromVideo/0.0.1600.860@0.0.1600.860" timestamp="1580262022195" />
     <state x="938" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580190759930">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="938" y="338" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580190759930" />
-    <state width="1237" height="254" key="GridCell.Tab.0.bottom" timestamp="1580200566206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1146" height="206" key="GridCell.Tab.0.bottom" timestamp="1580263309163">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1146" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580263309163" />
     <state width="1237" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580200566206" />
-    <state width="1237" height="254" key="GridCell.Tab.0.center" timestamp="1580200566206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1146" height="206" key="GridCell.Tab.0.center" timestamp="1580263309163">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1146" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1580263309163" />
     <state width="1237" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580200566206" />
-    <state width="1237" height="254" key="GridCell.Tab.0.left" timestamp="1580200566206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1146" height="206" key="GridCell.Tab.0.left" timestamp="1580263309163">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1146" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1580263309163" />
     <state width="1237" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580200566206" />
-    <state width="1237" height="254" key="GridCell.Tab.0.right" timestamp="1580200566206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1146" height="206" key="GridCell.Tab.0.right" timestamp="1580263309163">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1146" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1580263309163" />
     <state width="1237" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580200566206" />
+    <state x="489" y="89" key="SettingsEditor" timestamp="1580261762228">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="489" y="89" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1580261762228" />
     <state x="1004" y="254" key="search.everywhere.popup" timestamp="1580190686706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
